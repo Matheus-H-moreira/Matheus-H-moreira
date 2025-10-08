@@ -45,4 +45,4 @@ Sou o **Matheus Moreira**, estudante de **Sistemas de Informação** na **PUC Mi
 
 ---
 
-<p align="center">🌱 Sempre buscando aprender e evoluir na área de tecnologia.</p>
+<p align="left">🌱 Sempre buscando aprender e evoluir na área de tecnologia.</p>
