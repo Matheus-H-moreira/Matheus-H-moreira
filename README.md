@@ -12,6 +12,8 @@
   </a>
 </div>
 
+---
+
 ###
 
 <p align="left">Linguagens e Tecnologias</p>
