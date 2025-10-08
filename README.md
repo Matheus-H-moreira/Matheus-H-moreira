@@ -1,5 +1,5 @@
 # Matheus Henrique Moreira
-
+---
 ###
 
 <p align="left">Sou o Matheus Moreira, estudante de Sistemas de Informação na PUC Minas. Tenho grande interesse pela área de tecnologia e gosto de aprender coisas novas todos os dias. Busco sempre evoluir meus conhecimentos em desenvolvimento de software e entender como criar soluções que façam a diferença.</p>
@@ -11,9 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
-
 ---
-
 ###
 
 <p align="left">Linguagens e Tecnologias</p>
