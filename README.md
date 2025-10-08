@@ -1,8 +1,8 @@
-# Matheus Henrique Moreira
+# Matheus Moreira
 
 ###
 
-<p align="left">Sou o Matheus Moreira, estudante de Sistemas de Informação na PUC Minas. Tenho grande interesse pela área de tecnologia e gosto de aprender coisas novas todos os dias. Busco sempre evoluir meus conhecimentos em desenvolvimento de software e entender como criar soluções que façam a diferença.</p>
+Sou o **Matheus Moreira**, estudante de **Sistemas de Informação** na **PUC Minas**. Tenho grande interesse pela área de tecnologia e gosto de aprender coisas novas todos os dias. Busco sempre evoluir meus conhecimentos em desenvolvimento de software e entender como criar soluções que façam a diferença.
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-H-moreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-H-moreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
