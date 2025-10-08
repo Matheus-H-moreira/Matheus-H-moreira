@@ -12,7 +12,7 @@ Sou o **Matheus Moreira**, estudante de **Sistemas de Informação** na **PUC Mi
   </a>
 </div>
 
----
+--
 
 ### 🧠 Linguagens e Tecnologias
 
@@ -34,7 +34,7 @@ Sou o **Matheus Moreira**, estudante de **Sistemas de Informação** na **PUC Mi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
----
+--
 
 ### 📊 Estatísticas
 
@@ -43,6 +43,6 @@ Sou o **Matheus Moreira**, estudante de **Sistemas de Informação** na **PUC Mi
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-H-moreira&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
----
+--
 
 <p align="left">🌱 Sempre buscando aprender e evoluir na área de tecnologia.</p>
