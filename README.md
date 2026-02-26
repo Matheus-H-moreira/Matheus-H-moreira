@@ -39,8 +39,8 @@ Sou o **Matheus Moreira**, estudante de **Sistemas de Informação** na **PUC Mi
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-H-moreira&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-H-moreira&layout=compact&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-H-moreira&show_icons=true&theme=dracula&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-H-moreira&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 </div>
 
 ---
