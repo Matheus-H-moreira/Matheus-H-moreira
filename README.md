@@ -38,8 +38,6 @@ Sou o **Matheus Moreira**, estudante de **Sistemas de Informação** na **PUC Mi
 
 ### 📊 Estatísticas
 
-## 📊 Estatísticas
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus-H-moreira&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus-H-moreira&layout=compact&theme=dracula)
